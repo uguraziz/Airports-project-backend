@@ -10,7 +10,7 @@ Bu proje, modern web uygulamaları geliştirmek için kullanılan Laravel framew
 
 - MeiliSearch: Güçlü arama yetenekleri sunan tam metin tabanlı açık kaynaklı bir arama motoru.
 
-- Sanctum: Laravel'in sağladığı kimlik doğrulama hizmetlerini sağlayan bir paket.
+- Sanctum: Laravel'in sağladığı kimlik doğrulama hizmetlerini sağlayan bir paket..
 
 
 ## Başlangıç
